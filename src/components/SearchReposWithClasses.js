@@ -3,7 +3,7 @@ import axios from 'axios';
 import Results from './Results';
 import '../style.css';
 
-class SearchReposWithClass extends React.Component {
+class SearchReposWithClasses extends React.Component {
 
  constructor(props) {
    super(props);
@@ -71,4 +71,4 @@ class SearchReposWithClass extends React.Component {
  }
 }
 
-export default SearchReposWithClass;
+export default SearchReposWithClasses;
